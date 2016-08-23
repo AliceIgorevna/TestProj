@@ -13,6 +13,9 @@
     <option name="pathToEclipse" value="D:/ctco-ecom/ide-settings/eclipse/formatter.xml" />
     <option name="selectedJavaProfile" value="My" />
   </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
